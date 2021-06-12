@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "masonapp4b215b78": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
